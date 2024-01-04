@@ -1,2 +1,4 @@
-# dynamic-drawing
-Playing around with dynamic drawing
+Based on: https://frontend.horse/articles/generative-grids/
+
+npm i
+npm start

@@ -1,0 +1,15 @@
+:root {
+    --first-color: #16f;
+    --second-color: #ff7;
+}
+
+button {
+    width: 100px;
+    height: 50px;;
+}
+
+.container {
+    width: 50vw;
+    height: 50vh;
+    background-image: linear-gradient(var(--first-color), var(--second-color));
+}
